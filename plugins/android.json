@@ -1,0 +1,58 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-android-support-gradle-release": {
+      "ANDROID_SUPPORT_VERSION": "27.+",
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-mauron85-background-geolocation": {
+      "GOOGLE_PLAY_SERVICES_VERSION": "11+",
+      "ANDROID_SUPPORT_LIBRARY_VERSION": "26+",
+      "ICON": "@mipmap/icon",
+      "SMALL_ICON": "@mipmap/icon",
+      "ACCOUNT_NAME": "@string/app_name",
+      "ACCOUNT_LABEL": "@string/app_name",
+      "ACCOUNT_TYPE": "$PACKAGE_NAME.account",
+      "CONTENT_AUTHORITY": "$PACKAGE_NAME",
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-custom-geofence": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "de.appplant.cordova.plugin.local-notification": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    },
+    "cordova-plugin-app-event": {
+      "PACKAGE_NAME": "io.cordova.experiencesampler"
+    }
+  }
+}
